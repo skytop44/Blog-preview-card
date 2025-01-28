@@ -41,5 +41,5 @@ Users should be able to:
 ## Author
 
 - Website - [Gyorgy Papp](https://github.com/skytop44)
-- Frontend Mentor - [Gorgy Papp](https://www.frontendmentor.io/profile/skytop44)
+- Frontend Mentor - [Gyorgy Papp](https://www.frontendmentor.io/profile/skytop44)
 
